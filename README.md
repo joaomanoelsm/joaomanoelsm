@@ -2,10 +2,10 @@
 
 <p>I'm 18 years old, I've been practicing computing since the middle of last year, I'm currently looking for a job as a web developer, meanwhile I'm still doing services for clients, and projects to enrich my portfolio.
 
-<div>
+<div align="center">
   <a href="https://github.com/joaomanoelsm">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=joaomanoelsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="end" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelsm&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=joaomanoelsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelsm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Programming languages
