@@ -1,6 +1,6 @@
 # Welcome to my profile 👋
 
-<p>I'm 18 years old, I've been practicing computing since the middle of last year, I'm currently looking for a job as a web developer, meanwhile I'm still doing services for clients, and projects to enrich my portfolio.
+<p>I'm 18 years old, I live in the city of Lagarto-SE, I've been practicing computing since the middle of last year, I'm currently looking for a job as a web developer, meanwhile I keep doing services for clients and projects to enrich my portfolio.
 
 <div>
   <a href="https://github.com/joaomanoelsm">
