@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/joaomanoelsm">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=joaomanoelsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelsm&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=joaomanoelsm&show_icons=true&icon_color=00CCBB&bg_color=0D0D0D&border_radius=0.8em&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomanoelsm&bg_color=0D0D0D&border_radius=0.8em&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Programming languages
