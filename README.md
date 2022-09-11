@@ -18,6 +18,7 @@
 ## Technologies and libraries
 
 <div style="display: inline_block">
+  <img align="center" alt="João-React" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="João-Html" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-Css" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-Sass" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -28,13 +29,13 @@
 ## Contact
 
 <div>
-  <a href="https://web.whatsapp.com" target="_blanck"> 
+  <a href="https://api.whatsapp.com/send?phone=5579998016954" target="_blank"> 
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="https://web.whatsapp.com" target="_blanck"> 
+  <a href=https://www.linkedin.com/in/joão-manoel-744231219/" target="_blank"> 
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://web.whatsapp.com" target="_blanck"> 
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  <a href="joaom.developer@gmail.com" target="_blank"> 
+   <img src="https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
