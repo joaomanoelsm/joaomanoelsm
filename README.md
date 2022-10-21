@@ -19,10 +19,12 @@
 
 <div style="display: inline_block">
   <img align="center" alt="João-React" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="João-React" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/preact/preact-original.svg">
   <img align="center" alt="João-React" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="João-Html" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-Css" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="João-Sass" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="João-React" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
   <img align="center" alt="João-Git" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="João-Figma" height="37" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
